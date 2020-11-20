@@ -1,7 +1,7 @@
 // Reverse the string "Josephine"
 
 function reverseString(string) {
-    return str.split("").reverse().join("");
+    return string.split("").reverse().join("");
 }
 
 reverseString("Josephine");
@@ -9,7 +9,7 @@ reverseString("Josephine");
 // Reverse the sentence " Josephine likes apples" -> " apples likes Josephine ")
 
 function reverseSentence(string) {
-    return str.split(" ").reverse().join(" ");
+    return string.split(" ").reverse().join(" ");
 }
 
 reverseSentence("Josephine likes apples");
