@@ -63,5 +63,3 @@ function countNonFifth() {
 }
 
 countNonFifth();
-
-//
